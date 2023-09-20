@@ -1,0 +1,80 @@
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\ref\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi-G055(Temel)\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net5.0\ref\OkulYonetimUygulamasi.dll
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\Kodlama\Desktop\Silicon Made\Ders 6 (17.07.2023)\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\ref\OkulYonetimUygulamasi.dll
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\a\Desktop\mücahit\OkulYonetimUygulamasi(SON HALİ)\OkulYonetimUygulamasi\obj\Debug\net5.0\ref\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\bin\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\uur\Desktop\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi(SON HALİv1)\OkulYonetimUygulamasi\obj\Debug\net5.0\ref\OkulYonetimUygulamasi.dll
